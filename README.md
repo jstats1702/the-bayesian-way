@@ -1,3 +1,3 @@
-# the-bayesian-way
+# The Bayesian Way
 
 Contenido aqui.
